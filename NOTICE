@@ -1,0 +1,15 @@
+Streamflix webOS (inoffizieller privater Port)
+==============================================
+
+Diese App ist eine eigenstaendige, private webOS-Umsetzung. Sie ist KEINE
+offizielle App des Projekts "Streamflix Reborn" und wird von dessen
+Maintainer:innen weder autorisiert noch unterstuetzt.
+
+Die Provider- und Extractor-Logik wurde aus dem Apache-2.0-lizenzierten
+Projekt "Streamflix Reborn" (https://git.gay/streamflix-reborn2/streamflix)
+von Kotlin nach JavaScript portiert. Der Original-Quellcode liegt unter der
+Apache License 2.0 (siehe beigefuegte LICENSE-Datei). Saemtliche Rechte am
+Original liegen bei den jeweiligen Urheber:innen.
+
+Dieser private Port steht ebenfalls unter der Apache License 2.0.
+Enthaelt hls.js (Apache License 2.0, https://github.com/video-dev/hls.js).
